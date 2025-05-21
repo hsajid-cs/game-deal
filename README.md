@@ -2,7 +2,7 @@
 
 A Flutter application that helps users discover and save the best gaming deals.
 
-![Game Deals App](screenshots/app_preview.jpg)
+![Game Deals App](screenshots/preview.jpg)
 
 ## Current Status
 - Current Date and Time (UTC): 2025-05-21 12:22:24
