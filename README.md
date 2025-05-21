@@ -2,7 +2,7 @@
 
 A Flutter application that helps users discover and save the best gaming deals.
 
-![Game Deals App](screenshots/app_preview.png)
+![Game Deals App](screenshots/app_preview.jpg)
 
 ## Current Status
 - Current Date and Time (UTC): 2025-05-21 12:22:24
@@ -60,7 +60,7 @@ lib/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/game_deals.git
+git clone https://github.com/hsajid-cs/game-deal.git
 cd game_deals
 ```
 
