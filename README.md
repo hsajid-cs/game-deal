@@ -2,21 +2,9 @@
 
 A Flutter application that helps users discover and save the best gaming deals.
 
-![Game Deals App](screenshots/preview.jpg)
-
-## Current Status
-- Current Date and Time (UTC): 2025-05-21 12:22:24
-- Current User's Login: hsajid-cs
-
-## Team Members
-
-| Name | Qalam ID |
-|------|----------|
-| Hira Sajid | 405562 |
-| Fatima Nisar | 415430 |
-| Sadia Masood Arshad | 406668 |
-| Syed Muhammad Afaq | 424644 |
-| Muhammad Waleed Tariq Awan | 429642 |
+<div align="center">
+  <img src="screenshots/preview.jpg" alt="Game Deals App Preview" width="300" />
+</div>
 
 ## App Structure
 
